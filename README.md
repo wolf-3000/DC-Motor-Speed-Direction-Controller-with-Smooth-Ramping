@@ -45,6 +45,4 @@ This Arduino sketch drives a DC motor through an H-bridge (e.g. L298N), with:
 4. Button 1 sets direction "forward" (`IN1=HIGH, IN2=LOW`), button 2 sets "reverse" (`IN1=LOW, IN2=HIGH`).
 5. `printDashboard()` prints target speed, current speed, and ramp state to Serial every 500 ms.
 
-## License
-
-[MIT, or your choice]
+e]
